@@ -1,0 +1,301 @@
+body{
+    background-image: url(/images/back2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#begin{
+    color: gold;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.ul{
+    display: flex;
+    gap: 60px;
+    list-style-type: none;
+}
+.list{
+    margin-left: 55%;
+    margin-top: 30px;
+    
+}
+#one{
+    font-weight: bold;
+    color: gold;
+}
+#one{
+    font-weight: bold;
+    color: gold;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+.list a{
+    text-decoration: none;
+    list-style-type: none;
+    font-weight: bold;
+    color: gold;
+}
+#two{
+    font-weight: bold;
+    color: gold;
+}
+#three{
+    font-weight: bold;
+    color: gold;
+}
+
+#menue{
+    font-weight: bold;
+    color: gold;
+    margin-left: 80%;
+    margin-top: 30px;
+}
+#no{
+    font-weight: bold;
+    font-size: 13px;
+}
+#novel{
+    font-weight: bold;
+}
+.blem{
+    text-align: start;
+    color: gold;
+}
+#adding{
+    color: gold;
+    margin-top:90px;
+}
+#new{
+    color: gold;
+    margin-top: 90px;
+}
+.input{
+    width: 60%;
+}
+#search{
+    color: gold;
+    margin-top: 70px;
+}
+#display{
+    color: gold;
+    margin-top: 70px;
+}
+#remove{
+    color: gold;
+    margin-top: 70px;
+}
+#add{
+    color: gold;
+}
+#add-btn{
+    height: 40px;
+    width: 10%;
+    background-color: gold;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+#display-btn{
+    height: 40px;
+    width: 10%;
+    background-color: gold;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+#display-all{
+    color: gold;
+    font-weight: bold;
+}
+#search-btn{
+    height: 40px;
+    width: 10%;
+    background-color: gold;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.input-one{
+    width: 60%;
+    margin-top: 10px;
+}
+@media (min-width: 1200px) {
+
+
+    #begin {
+        font-size: 48px; 
+    }
+
+    .ul {
+        gap: 60px;
+    }
+
+    .list {
+        margin-left: 55%;
+    }
+
+    .input {
+        width: 40%; 
+    }
+
+    #add-btn, #display-btn, #search-btn {
+        width: 15%; 
+    }
+
+    table {
+        font-size: 16px;
+    }
+
+    th, td {
+        padding: 15px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+        background-size: cover;
+        height: auto;
+    }
+
+    #begin {
+        font-size: 36px;
+    }
+
+    .ul {
+        gap: 40px;
+    }
+
+    .list {
+        margin-left: 45%;
+    }
+
+    .input {
+        width: 50%;
+    }
+
+    #add-btn, #display-btn, #search-btn {
+        width: 20%;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    th, td {
+        padding: 12px;
+    }
+}
+
+/* For small screens (tablets, 768px to 991px) */
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        background-size: cover;
+        height: auto;
+    }
+
+    #begin {
+        font-size: 30px;
+    }
+
+    .ul {
+        gap: 30px;
+        justify-content: center; /* Center the navigation */
+    }
+
+    .list {
+        margin-left: 0;
+    }
+
+    .input {
+        width: 70%;
+    }
+
+    #add-btn, #display-btn, #search-btn {
+        width: 30%;
+    }
+
+    table {
+        font-size: 13px;
+    }
+
+    th, td {
+        padding: 10px;
+    }
+}
+
+/* For mobile screens (up to 767px) */
+@media (max-width: 767px) {
+    body {
+        background-size: cover;
+        height: auto;
+    }
+
+    #begin {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .ul {
+        flex-direction: column;
+        gap: 20px;
+        margin-left: 0;
+        align-items: center;
+    }
+
+    .list {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .input {
+        width: 90%;
+        margin-bottom: 15px;
+    }
+
+    #add-btn, #display-btn, #search-btn {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    #display-all {
+        font-size: 14px;
+    }
+    table {
+        width: 100%;
+        font-size: 12px;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+    }
+
+    .container {
+        padding: 15px;
+    }
+}
+@media (max-width: 480px) {
+    #begin {
+        font-size: 20px;
+    }
+
+    .ul {
+        gap: 10px;
+    }
+
+    .input {
+        width: 95%;
+    }
+
+    #add-btn, #display-btn, #search-btn {
+        width: 100%;
+    }
+
+    table {
+        font-size: 11px;
+    }
+
+    th, td {
+        padding: 8px;
+    }
+}

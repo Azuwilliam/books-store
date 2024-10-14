@@ -1,0 +1,638 @@
+body{
+    background-image: url(/images/back2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#lee{
+    color: white;
+    font-weight: bold;
+
+}
+.img-one{
+    background-color: hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-one{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.remove{
+    height: 37px;
+    width: 28%;
+    font-weight: bold;
+    border-radius: 9px;
+    background-color: purple;
+    color: white;
+    margin-bottom: 10px;
+}
+.read{
+    height: 37px;
+    width: 29%;
+    font-weight: bold;
+    border-radius: 9px;
+    background-color: purple;
+    color: white;
+    margin-bottom: 10px;
+}
+#scott{
+    color: white;
+    font-weight: bold;
+}
+.img-two{
+    background-color: blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-two{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#jane{
+    color: white;
+    font-weight: bold;
+}
+.img-three{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-three{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#george{
+    color: white;
+    font-weight: bold;
+}
+.img-four{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-four{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#jd{
+    color: white;
+    font-weight: bold;
+}
+.img-five{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-five{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#tolkien{
+    color: white;
+    font-weight: bold;
+}
+.img-six{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-six{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#Suzanne{
+    color: white;
+    font-weight: bold;
+}
+.img-seven{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-seven{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#dan{
+    color: white;
+    font-weight: bold;
+}
+.img-eight{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-eight{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#oscar{
+    color: white;
+    font-weight: bold;
+}
+.img-nine{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-nine{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#emily{
+    color: white;
+    font-weight: bold;
+}
+.img-ten{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-ten{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#bronet{
+    color: white;
+    font-weight: bold;
+}
+.img-eleven{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-eleven{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#mark{
+    color: white;
+    font-weight: bold;
+}
+.img-twelve{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-twelve{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#dumas{
+    color: white;
+    font-weight: bold;
+}
+.img-thirteen{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-thirteen{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#will{
+    color: white;
+    font-weight: bold;
+}
+.img-fourteen{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-fourteen{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#grape{
+    color: white;
+    font-weight: bold;
+}
+.img-fifteen{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-fifteen{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#nath{
+    color: white;
+    font-weight: bold;
+}
+.img-sixteen{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-sixteen{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#herman{
+    color: white;
+    font-weight: bold;
+}
+.img-seventeen{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-seventeen{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#twain{
+    color: white;
+    font-weight: bold;
+}
+.img-eighteen{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-eighteen{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#hg{
+    color: white;
+    font-weight: bold;
+}
+.img-nineteen{
+    background-color:  hotpink;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-nineteen{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#henry{
+    color: white;
+    font-weight: bold;
+}
+.img-twenty{
+    background-color:  blue;
+    text-align: center;
+    border-radius: 19px;
+}
+#img-twenty{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+@media (max-width: 768px) {
+    body {
+        background-size: cover;
+        height: auto;
+    }
+
+    header h1 {
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    .list ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .list ul li {
+        margin-bottom: 10px; 
+    }
+
+    .list ul li a {
+        font-size: 1.2em;
+    }
+
+    .img-one, .img-two, .img-three, .img-four,
+    .img-five, .img-six, .img-seven, .img-eight,
+    .img-nine, .img-ten, .img-eleven, .img-twelve,
+    .img-thirteen, .img-fourteen, .img-fifteen, .img-sixteen,
+    .img-seventeen, .img-eighteen, .img-nineteen, .img-twenty {
+        width: 100%; 
+        margin-bottom: 20px; 
+    }
+
+    .img-one img, .img-two img, .img-three img, .img-four img,
+    .img-five img, .img-six img, .img-seven img, .img-eight img,
+    .img-nine img, .img-ten img, .img-eleven img, .img-twelve img,
+    .img-thirteen img, .img-fourteen img, .img-fifteen img, .img-sixteen img,
+    .img-seventeen img, .img-eighteen img, .img-nineteen img, .img-twenty img {
+        width: 80%; 
+        height: auto;
+        margin-right: 10px;
+    }
+
+    .remove, .read {
+        width: 90%;
+        font-size: 10px; 
+        margin: 5px; 
+    }
+
+    .container {
+        padding: 0 10px; 
+    }
+    #lee{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    
+    }
+    .img-one{
+        background-color: hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-one{
+        margin-top: 10px;
+        
+    }
+    #scott{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-two{
+        background-color: blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-two{
+        margin-top: 10px;
+        
+    }
+    #jane{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-three{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-three{
+        margin-top: 10px;
+        
+    }
+    #george{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-four{
+        background-color:  blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-four{
+        margin-top: 10px;
+        
+    }
+    #jd{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-five{
+        background-color:  blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-five{
+        margin-top: 10px;
+        
+    }
+    #tolkien{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-six{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-six{
+        margin-top: 10px;
+        
+    }
+    #Suzanne{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-seven{
+        background-color:  blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-seven{
+        margin-top: 10px;
+        
+    }
+    #dan{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-eight{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-eight{
+        margin-top: 10px;
+        
+    }
+    #oscar{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-nine{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-nine{
+        margin-top: 10px;
+        
+    }
+    #emily{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-ten{
+        background-color:  blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-ten{
+        margin-top: 10px;
+        
+    }
+    #bronet{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-eleven{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-eleven{
+        margin-top: 10px;
+        
+    }
+    #mark{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-twelve{
+        background-color:  blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-twelve{
+        margin-top: 10px;
+        
+    }
+    #dumas{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-thirteen{
+        background-color:  blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-thirteen{
+        margin-top: 10px;
+        
+    }
+    #will{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-fourteen{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-fourteen{
+        margin-top: 10px;
+        
+    }
+    #grape{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-fifteen{
+        background-color:  blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-fifteen{
+        margin-top: 10px;
+        
+    }
+    #nath{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-sixteen{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-sixteen{
+        margin-top: 10px;
+    }
+    #herman{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-seventeen{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-seventeen{
+        margin-top: 10px;
+        
+    }
+    #twain{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-eighteen{
+        background-color:  blue;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-eighteen{
+        margin-top: 10px;
+        
+    }
+    #hg{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-nineteen{
+        background-color:  hotpink;
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-nineteen{
+        margin-top: 10px;
+        
+    }
+    #henry{
+        color: white;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    .img-twenty{
+        text-align: center;
+        border-radius: 19px;
+    }
+    #img-twenty{
+        margin-top: 10px;
+        align-items: start;
+    }
+    
+}

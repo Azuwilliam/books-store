@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-image: url(/images/back2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: gold;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: gold;
+  }
+  
+  a:hover {
+    color: gold;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  #theme{
+    color: gold;
+  }
+  #genre{
+    color: gold;
+    margin-top: 30px;
+  }
+  #style{
+    color: gold;
+    margin-top: 30px;
+  }
+  #period{
+    color: gold;
+    margin-top: 30px;
+  }
+  #author{
+    color: gold;
+    margin-top: 30px;
+  }
