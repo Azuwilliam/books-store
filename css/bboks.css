@@ -341,13 +341,13 @@ body{
     .img-nine img, .img-ten img, .img-eleven img, .img-twelve img,
     .img-thirteen img, .img-fourteen img, .img-fifteen img, .img-sixteen img,
     .img-seventeen img, .img-eighteen img, .img-nineteen img, .img-twenty img {
-        width: 80%; 
+        width: 50%; 
         height: auto;
         margin-right: 10px;
     }
 
     .remove, .read {
-        width: 90%;
+        width: 50%;
         font-size: 10px; 
         margin: 5px; 
     }
@@ -358,13 +358,15 @@ body{
     #lee{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     
     }
     .img-one{
         background-color: hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-one{
         margin-top: 10px;
@@ -373,12 +375,14 @@ body{
     #scott{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-two{
         background-color: blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-two{
         margin-top: 10px;
@@ -387,12 +391,14 @@ body{
     #jane{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-three{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-three{
         margin-top: 10px;
@@ -401,12 +407,14 @@ body{
     #george{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-four{
         background-color:  blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-four{
         margin-top: 10px;
@@ -415,12 +423,14 @@ body{
     #jd{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-five{
         background-color:  blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-five{
         margin-top: 10px;
@@ -429,12 +439,14 @@ body{
     #tolkien{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-six{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-six{
         margin-top: 10px;
@@ -443,12 +455,14 @@ body{
     #Suzanne{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-seven{
         background-color:  blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-seven{
         margin-top: 10px;
@@ -457,12 +471,14 @@ body{
     #dan{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-eight{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-eight{
         margin-top: 10px;
@@ -471,12 +487,14 @@ body{
     #oscar{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-nine{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-nine{
         margin-top: 10px;
@@ -485,12 +503,14 @@ body{
     #emily{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-ten{
         background-color:  blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-ten{
         margin-top: 10px;
@@ -499,12 +519,14 @@ body{
     #bronet{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-eleven{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-eleven{
         margin-top: 10px;
@@ -513,12 +535,14 @@ body{
     #mark{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-twelve{
         background-color:  blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-twelve{
         margin-top: 10px;
@@ -527,12 +551,14 @@ body{
     #dumas{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-thirteen{
         background-color:  blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-thirteen{
         margin-top: 10px;
@@ -541,12 +567,14 @@ body{
     #will{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-fourteen{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-fourteen{
         margin-top: 10px;
@@ -555,12 +583,14 @@ body{
     #grape{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-fifteen{
         background-color:  blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-fifteen{
         margin-top: 10px;
@@ -569,12 +599,14 @@ body{
     #nath{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-sixteen{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-sixteen{
         margin-top: 10px;
@@ -582,12 +614,14 @@ body{
     #herman{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-seventeen{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-seventeen{
         margin-top: 10px;
@@ -596,12 +630,14 @@ body{
     #twain{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-eighteen{
         background-color:  blue;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-eighteen{
         margin-top: 10px;
@@ -610,12 +646,14 @@ body{
     #hg{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-nineteen{
         background-color:  hotpink;
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-nineteen{
         margin-top: 10px;
@@ -624,11 +662,13 @@ body{
     #henry{
         color: white;
         font-weight: bold;
-        font-size: 9px;
+        font-size: 15px;
     }
     .img-twenty{
         text-align: center;
         border-radius: 19px;
+        width: 80%;
+        margin-left: 38px;
     }
     #img-twenty{
         margin-top: 10px;
